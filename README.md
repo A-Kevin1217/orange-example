@@ -1,7 +1,7 @@
 <!-- 2024/3/4  UPDATE -->
 # 橙子 example
 <!-- 2024/03/04开始记录的访问量 -->
-![动态访问量](https://count.kjchmc.cn/get/Orange-Example?theme=rule34)  
+![动态访问量](https://count.kjchmc.cn/get/@orange-example?theme=rule34)  
 本仓库提供[Yunzai-Bot V3](https://gitee.com/Le-niao/Yunzai-Bot) & [A-Yunzai](https://gitee.com/ningmengchongshui/azai-bot)小型插件  
 如出现插件报错或功能不适配等情况 请自行解决
 如果你对本仓库表示支持，请点点你手中的Star
