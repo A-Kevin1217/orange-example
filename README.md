@@ -18,6 +18,7 @@
 ```
 curl -o "./plugins/example/跑路.js" "https://gitee.com/Kevin1217/orange-example/raw/master/js/跑路.js"
 ```
+
 <details>
 <summary>点击展开 · 「光遇」自动提醒干饭</summary>
 
