@@ -39,7 +39,9 @@ curl -o "./plugins/example/「光遇」自动提醒干饭.js" "https://gitee.com
 </details>
 
 
-## 致谢
+## 更多功能
 | Nickname | Contribution |
 | ---------- | :---------: |
 | [小丞](#) | 跑路、「光遇」自动提醒干饭 |
+| [光遇国际服测试服查身高](https://a-kevin1217.github.io/sky/) | GitHub版 |
+| [光遇国际服测试服查身高](#正在开发中) | Gitee版 |
