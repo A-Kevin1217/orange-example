@@ -27,7 +27,7 @@ curl -o "./plugins/example/跑路.js" "https://gitee.com/Kevin1217/orange-exampl
 <summary>点击展开 · 「光遇」自动提醒干饭</summary>
 
 #### 介绍
-发送跑路内容，只有主人可以发送
+自动发送光遇每日干饭提醒，大家可以自定义文件内容
 #### 安装
 ```
 curl -o "./plugins/example/「光遇」自动提醒干饭.js" "https://gitee.com/Kevin1217/orange-example/raw/master/js/「光遇」自动提醒干饭.js"
