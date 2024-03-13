@@ -18,6 +18,16 @@
 ```
 curl -o "./plugins/example/跑路.js" "https://gitee.com/Kevin1217/orange-example/raw/master/js/跑路.js"
 ```
+
+<summary>点击展开 · 「光遇」自动提醒干饭</summary>
+
+#### 介绍
+发送跑路内容，只有主人可以发送
+#### 安装
+```
+curl -o "./plugins/example/「光遇」自动提醒干饭.js" "https://gitee.com/Kevin1217/orange-example/raw/master/js/「光遇」自动提醒干饭.js"
+```
+
 #### 使用指令
 | 指令 | 作用 |
 | ---------- | ----------- |
@@ -27,4 +37,4 @@ curl -o "./plugins/example/跑路.js" "https://gitee.com/Kevin1217/orange-exampl
 ## 致谢
 | Nickname | Contribution |
 | ---------- | :---------: |
-| [小丞](#) | 跑路 |
+| [小丞](#) | 跑路、「光遇」自动提醒干饭 |
