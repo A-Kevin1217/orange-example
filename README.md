@@ -33,7 +33,7 @@ curl -o "./plugins/example/「光遇」自动提醒干饭.js" "https://gitee.com
 | 指令 | 作用 |
 | ---------- | ----------- |
 | 跑路 | 发送跑路内容 | 
-</details>
+
 
 ## 致谢
 | Nickname | Contribution |
