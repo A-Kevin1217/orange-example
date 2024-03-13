@@ -18,6 +18,10 @@
 ```
 curl -o "./plugins/example/跑路.js" "https://gitee.com/Kevin1217/orange-example/raw/master/js/跑路.js"
 ```
+#### 使用指令
+| 指令 | 作用 |
+| ---------- | ----------- |
+| 跑路 | 快速跑路 |
 </details>
 <details>
 <summary>点击展开 · 「光遇」自动提醒干饭</summary>
@@ -28,11 +32,11 @@ curl -o "./plugins/example/跑路.js" "https://gitee.com/Kevin1217/orange-exampl
 ```
 curl -o "./plugins/example/「光遇」自动提醒干饭.js" "https://gitee.com/Kevin1217/orange-example/raw/master/js/「光遇」自动提醒干饭.js"
 ```
-</details>
 #### 使用指令
 | 指令 | 作用 |
 | ---------- | ----------- |
-| 跑路 | 发送跑路内容 | 
+| 「光遇」自动提醒干饭 | 每日自动提醒干饭 |
+</details>
 
 
 ## 致谢
