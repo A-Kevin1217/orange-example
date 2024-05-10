@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      width: 1080px;
+      height: 1440px;
+      background-image: url("https://sky.res.netease.com/pc/gw/20221215171426/img/bg_0040d9d.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 0;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    @font-face {
+      font-family: "HYWenHei-55W";
+      src: url("../../../resources/font/HYWenHei-55W.ttf");
+    }
+
+    .container {
+      background: linear-gradient(120deg, #cf3cda, #50d8f0);
+      border-radius: 20px;
+      padding: 20px;
+      width: 90%;
+      max-width: 980px;
+      text-align: center;
+      opacity: 0.7;
+    }
+
+    h1 {
+      color: white;
+      font-size: 5em;
+      font-family: "HYWenHei-55W", sans-serif;
+    }
+
+    p {
+      color: white;
+      font-size: 3em;
+      font-family: "HYWenHei-55W", sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>关于{{botname}}</h1>
+    <p>连续运行时间：{{runTime}}</p>
+    <p>累计运行天数：{{timeDiff}}天</p>
+    <p>框架信息：{{botimf}} v{{botversion}}</p>
+    <p>{{botname}}平台：{{system}}</p>
+    <p>插件数量：{{pluginsnb}} | JS数量：{{jsnb}}</p>
+    <p>主人QQ：{{masterQQ}}</p>
+    <h1>{{user}}信息</h1>
+    <p>{{user}}名称：{{username}}({{userid}})</p>
+  </div>
+</body>
+</html>
