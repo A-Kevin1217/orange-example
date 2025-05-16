@@ -112,23 +112,6 @@ body{
     }
 }
 
-.sw-Hennnyano .body {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    background: url(https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/img/img_hennyano_body.png) left bottom/contain no-repeat
-}
-.sw-Hennnyano .eyes {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    background: url(https://cdn.jsdelivr.net/gh/TheSmallHanCat/Better_Alist@main/img/img_hennyano_eyes.png) left bottom/contain no-repeat
-}
-
 @media(any-hover: hover) {
     .sw-Hennnyano:hover {
         cursor:pointer!important
